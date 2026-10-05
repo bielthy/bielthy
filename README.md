@@ -1,7 +1,7 @@
 # Olá, eu sou Gabriel
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Professional;IT+Management+Student;Governance+%28ITIL%29+%26+Data+Analysis&center=true&width=800&height=45&color=FFFFFF" alt=/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=IT+Professional;IT+Management+Student;Governance+%28ITIL%29+%26+Data+Analysis&size=24&center=true&width=550&height=55&color=FFFFFF" alt="Apresentação animada de Gabriel" />
   <br>
 </div>
 
