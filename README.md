@@ -1,9 +1,8 @@
 # Olá, eu sou Gabriel
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Professional;IT+Management+Student;Governace (ITIL)+%26+Data+Analysis&center=true&width=800&height=45&color=FFFFFF">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Professional;IT+Management+Student;Governance+%28ITIL%29+%26+Data+Analysis&center=true&width=800&height=45&color=FFFFFF" alt=/>
   <br>
-  
 </div>
 
 Sou estudante de Gestão da Tecnologia da Informação com foco em Governança, Análise de Dados e Segurança da Informação.
@@ -33,18 +32,14 @@ Sou estudante de Gestão da Tecnologia da Informação com foco em Governança, 
 * sistema de controle e dispensação
 * Estudos de Gestão em TI
 
-
 ---
 
 ## Linguagens e Tecnologias
 
-
 <div align="left">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-  
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=go,python,js,postgres,mysql,windows,linux,vscode,git,github)](https://skillicons.dev)
-                
-  </marquee>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,js,postgres,mysql,windows,linux,vscode,git,github" alt="Minhas habilidades" />
+  </a>
 </div>
 
 ---
@@ -62,8 +57,6 @@ Sou estudante de Gestão da Tecnologia da Informação com foco em Governança, 
 </div>
 
 ---
-
-
 
 ## GitHub
 
